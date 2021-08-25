@@ -1,4 +1,1 @@
-function red()
-[
-    
-]
+var nill=""
